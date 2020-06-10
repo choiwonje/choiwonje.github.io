@@ -296,8 +296,7 @@ h6 {
 }
 
 .project1 {
-  background: url(img/readnumber_cover.png);
-    no-repeat 50% 50%;
+  background: url(img/readnumber_cover.png) no-repeat 50% 50%;
   background-size: cover;
 }
 
@@ -315,8 +314,7 @@ h6 {
 }
 
 .project2 {
-  background: url(img/gn_cover.png);
-    no-repeat 50% 50%;
+  background: url(img/gn_cover.png) no-repeat 50% 50%;
   background-size: cover;
 }
 
@@ -334,8 +332,7 @@ h6 {
 }
 
 .project3 {
-  background: url(img/nike_cover.png);
-    no-repeat 50% 50%;
+  background: url(img/nike_cover.png) no-repeat 50% 50%;
   background-size: cover;
 }
 
@@ -353,8 +350,7 @@ h6 {
 }
 
 .project4 {
-  background: url(img/sh_cover_01.png);
-    no-repeat 50% 50%;
+  background: url(img/sh_cover_01.png) no-repeat 50% 50%;
   background-size: cover;
 }
 
@@ -372,8 +368,7 @@ h6 {
 }
 
 .project5 {
-  background: url(img/D_cover.png);
-    no-repeat 50% 50%;
+  background: url(img/D_cover.png) no-repeat 50% 50%;
   background-size: cover;
 }
 
@@ -391,8 +386,7 @@ h6 {
 }
 
 .project6 {
-  background: url(img/bt_cover.png);
-    no-repeat 50% 50%;
+  background: url(img/bt_cover.png) no-repeat 50% 50%;
   background-size: cover;
 }
 
@@ -410,8 +404,7 @@ h6 {
 }
 
 .project7 {
-  background: url(img/rtds_cover.png);
-    no-repeat 50% 50%;
+  background: url(img/rtds_cover.png) no-repeat 50% 50%;
   background-size: cover;
 }
 
@@ -429,8 +422,7 @@ h6 {
 }
 
 .project8 {
-  background: url(img/sw_cover.png)
-    no-repeat 50% 50%;
+  background: url(img/sw_cover.png) no-repeat 50% 50%;
   background-size: cover;
 }
 
@@ -602,7 +594,7 @@ h6 {
 .image {
   background: url(https://lh3.googleusercontent.com/Qn3cUp7_pnbCya1DzdVZ_08cm3j5QFanmCFoxuLzXVEZm8Gjf8Z0FczA65AR-F8CH47urxOT0PUqc1qArNAf8ADE6yyX8CyPT9TEPefQjsVBMBMyijiQXhbmsbrfK52S0_d6IRYLrVMuQ05NtKiusR_4UihniQvEONFBESppXWXLJmoYcepckKwfROZcy0fhKEdUUyYc2q37CbzQKaAYMDJLm_BRVmR5LdYNVUqxQJrsJs06EsHZr-hVtsTlCnfK6U_sSPzajFhWXZExJBhbcIQagSLV1vXzJbUU3-b_DxyhStbPstI8qbTst865VpHuE9mt45wYiSiS-EzyE3btf4tIEjsVijS0CARSNT1zU1h3NLEyiK6u3gnNmntFae8Spi_xW98H-mtiNAshha29oUDAq_xRw4Eqiu3n3Qi2h563mhiwD_wavGKFiP6dkO22uMXQJP1eLQHFT_fVy38yDHSCOZsAtCW2_9XAWSuoVWVQK23x5Csf-nCHqtUSQDhGPizcZQJG3jt2SscjgThHiJArPxmfQSp8-vKTNztxH9BLW8psckAb8z3AuGkCL7I5v0MfPFQJUvmc-5trR9LXoqVctsxcrqoxnGlzFO8Uq2YHJzCwBsvj_5MPbJr9oBbjGykmbHmVvkxka0pmk53UnA04TBSm5BNkT3zJvpEObU_-i7MZ83lpCDiT7kD1=s2089-no?authuser=0)
     no-repeat 50% 50%;
-    background-size: cover;
+  background-size: cover;
   margin: 10px;
 }
 
