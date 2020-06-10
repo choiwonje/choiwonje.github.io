@@ -301,7 +301,7 @@ h6 {
 }
 
 .project1::after {
-  content: "Readnumber";
+  content: "Readnumber.";
   font-family: "Roboto Mono";
   font-size: 36px;
   position: relative;
@@ -355,7 +355,7 @@ h6 {
 }
 
 .project4::after {
-  content: "Smart Home";
+  content: "Smart Home.";
   font-family: "Roboto Mono";
   font-size: 36px;
   position: relative;
@@ -427,7 +427,7 @@ h6 {
 }
 
 .project8::after {
-  content: "Suunto & Wilson.";
+  content: "Amer sports.";
   font-family: "Roboto Mono";
   font-size: 36px;
   position: relative;
