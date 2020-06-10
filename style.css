@@ -319,7 +319,7 @@ h6 {
 }
 
 .project2::after {
-  content: "GENESIS Navigation.";
+  content: "Genesis Navigation.";
   font-family: "Roboto Mono";
   font-size: 36px;
   position: relative;
@@ -337,7 +337,7 @@ h6 {
 }
 
 .project3::after {
-  content: "Nike Web redesign.";
+  content: "Nike Web Redesign.";
   font-family: "Roboto Mono";
   font-size: 36px;
   position: relative;
@@ -427,7 +427,7 @@ h6 {
 }
 
 .project8::after {
-  content: "Amer sports.";
+  content: "Amer Sports.";
   font-family: "Roboto Mono";
   font-size: 36px;
   position: relative;
