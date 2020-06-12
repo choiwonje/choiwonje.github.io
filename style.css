@@ -332,12 +332,12 @@ h6 {
 }
 
 .project3 {
-  background: url(img/nike_cover.png) no-repeat 50% 50%;
+  background: url(img/reade_sp_end.png) no-repeat 50% 50%;
   background-size: cover;
 }
 
 .project3::after {
-  content: "Nike Web Redesign.";
+  content: "Read.";
   font-family: "Roboto Mono";
   font-size: 36px;
   position: relative;
@@ -422,12 +422,12 @@ h6 {
 }
 
 .project8 {
-  background: url(img/as_cover.png) no-repeat 50% 50%;
+  background: url(img/nike_cover.png) no-repeat 50% 50%;
   background-size: cover;
 }
 
 .project8::after {
-  content: "Amer Sports.";
+  content: "Nike Web redesign.";
   font-family: "Roboto Mono";
   font-size: 36px;
   position: relative;
